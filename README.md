@@ -106,4 +106,4 @@ Les idées et corrections sont les bienvenues : ouvrez une *issue* ou une *pull 
 
 ## Licence
 
-[MIT](LICENSE) © Wudstyz. Voir [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Projet indépendant, non affilié à GitHub ni à Apple.
+[MIT](LICENSE) © Damien POLLET (Wudstyz). Voir [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Projet indépendant, non affilié à GitHub ni à Apple.

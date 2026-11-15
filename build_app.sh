@@ -43,7 +43,7 @@ cat > "$APP/Contents/Info.plist" <<PLIST
   <key>NSHighResolutionCapable</key><true/>
   <key>NSRequiresAquaSystemAppearance</key><true/>
   <key>CFBundleDevelopmentRegion</key><string>fr</string>
-  <key>NSHumanReadableCopyright</key><string>© Wudstyz. Licence MIT.</string>
+  <key>NSHumanReadableCopyright</key><string>© Damien POLLET (Wudstyz). Licence MIT.</string>
 </dict>
 </plist>
 PLIST

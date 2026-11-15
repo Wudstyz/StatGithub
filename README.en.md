@@ -106,4 +106,4 @@ Ideas and fixes are welcome: open an issue or a pull request. To try it without 
 
 ## License
 
-[MIT](LICENSE) © Wudstyz. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Independent project, not affiliated with GitHub or Apple.
+[MIT](LICENSE) © Damien POLLET (Wudstyz). See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Independent project, not affiliated with GitHub or Apple.
